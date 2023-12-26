@@ -8,10 +8,10 @@
 ## Work in games     
 BattleEye:   
 PUB 
-R   
+R  
 Untur                   
 Fortni    
-Easy Anti-che
+Easy Anti-che 
 Apex   
 Rust 
 SCUM
