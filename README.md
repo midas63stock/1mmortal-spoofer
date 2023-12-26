@@ -9,10 +9,10 @@
 BattleEye:     
 
 Untur                   
-Fortni   
+Fortni    
 Easy Anti-c 
 Apex   
-Rust     
+Rust    
 SCU 
 Dead by Dayligh 
 Enlisted
