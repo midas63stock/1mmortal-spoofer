@@ -9,8 +9,8 @@
 BattleEye:   
 R 
 Untur                     
-Fortni  
-Easy Anti-ch
+Fortni   
+Easy Anti-c
 Apex      
 Rust  
 SCU  
