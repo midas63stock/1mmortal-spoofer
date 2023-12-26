@@ -11,8 +11,8 @@ PUB
 R
 Untur                  
 Fortni     
-Easy Anti-che  
-Apex   
+Easy Anti-che   
+Apex  
 Rust 
 SCU
 Dead by Dayligh
