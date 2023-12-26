@@ -10,10 +10,10 @@ BattleEye:
 R  
 Untur                  
 Fortni   
-Easy Anti-c  
+Easy Anti-c 
 Apex   
 Rust     
-SCU
+SCU 
 Dead by Dayligh 
 Enlisted
 Fortnite   
