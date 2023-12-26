@@ -8,9 +8,9 @@
  
 ## Work in games - 
 BattleEye:      
-PUBG       
+PUBG      
 DayZ
-R6:  
+R6:   
 Unturne
 Arm 
 Fortni
