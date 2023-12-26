@@ -10,11 +10,11 @@ BattleEye:
 PUB   
 R     
 Untur               
-Fortni   
+Fortni  
 Easy Anti-che  
 Apex   
 Rust 
-SCU
+SCU 
 Dead by Dayligh
 Enlisted
 Fortnite
