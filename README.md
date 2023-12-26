@@ -8,12 +8,12 @@
 ## Work in games        
 BattleEye:    
 PUB 
-R      
+R     
 Untur                
 Fortni 
 Easy Anti-che  
 Apex    
-Rust 
+Rust  
 SCU
 Dead by Dayligh
 Enlisted
