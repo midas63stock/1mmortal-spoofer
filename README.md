@@ -8,9 +8,9 @@
 
 ## Work in games - 
 BattleEye:  
-PUBG   
+PUBG    
 E
-DayZ   
+DayZ  
 R6:S
 Unturned
 Arma 3
