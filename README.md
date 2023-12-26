@@ -10,9 +10,9 @@ BattleEye:
 PUB     
 R  
 Untur                
-Fortni     
+Fortni    
 Easy Anti-che   
-Apex  
+Apex   
 Rust 
 SCU
 Dead by Dayligh
