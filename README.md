@@ -8,10 +8,10 @@
 ## Work in games   
 BattleEye:       
 PUBG   
-R6  
+R6 
 Untur              
 Fortni   
-Easy Anti-che  
+Easy Anti-che   
 
 Apex 
 Rust 
