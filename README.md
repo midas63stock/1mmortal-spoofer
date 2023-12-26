@@ -8,11 +8,11 @@
 ## Work in games         
 BattleEye:   
 R  
-Untur                  
+Untur                 
 Fortni  
 Easy Anti-c   
 Apex    
-Rust     
+Rust      
 SCU
 Dead by Dayligh 
 Enlisted
