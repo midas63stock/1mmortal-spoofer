@@ -8,9 +8,9 @@
 ## Work in games     
 BattleEye:  
 PUB    
-R 
+R
 Untur                 
-Fortni    
+Fortni     
 Easy Anti-che  
 Apex    
 Rust 
