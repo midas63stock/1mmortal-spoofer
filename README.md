@@ -9,8 +9,8 @@
 BattleEye: 
 PUB     
 R  
-Untur                 
-Fortni    
+Untur                
+Fortni     
 Easy Anti-che   
 Apex  
 Rust 
