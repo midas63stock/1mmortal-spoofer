@@ -10,11 +10,11 @@
 BattleEye:   
 PUBG    
 E
-DayZ 
+DayZ
 R6:S
 Unturned
 Arma 3
-Fortnite 
+Fortnite  
 
 Easy Anti-cheat:
 
