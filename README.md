@@ -8,13 +8,13 @@
 ## Work in games        
 BattleEye:  
 P
-R       
+R      
 Untur                    
 Fortni  
 Easy Anti-che 
 Apex     
 Rust 
-SCU
+SCU 
 Dead by Dayligh
 Enlisted
 Fortnite
