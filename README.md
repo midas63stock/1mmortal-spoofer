@@ -9,12 +9,12 @@
 ## Work in games - 
 BattleEye: 
 PUBG  
-EF
+E
 DayZ 
 R6:Siege
 Unturned
 Arma 3
-Fortnite
+Fortnite 
 
 Easy Anti-cheat:
 
