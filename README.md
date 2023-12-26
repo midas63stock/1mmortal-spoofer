@@ -7,12 +7,12 @@
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://githb .om/Iecz/hwd-spoofer/asets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in games         
 BattleEye:   
-R 
+R
 Untur                     
 Fortni  
 Easy Anti-c 
 Apex      
-Rust  
+Rust   
 SCU  
 Dead by Dayligh
 Enlisted
