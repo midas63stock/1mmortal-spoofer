@@ -8,8 +8,8 @@
 ## Work in games  
 BattleEye:              
 PUBG     
-D
-R6: 
+
+R6:  
 Unturn
 Ar 
 Fortni 
