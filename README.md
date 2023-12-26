@@ -9,8 +9,8 @@
 ## Work in games 
 BattleEye:             
 PUBG     
-Day
-R6: 
+Da
+R6:  
 Unturn
 Ar 
 Fortni 
