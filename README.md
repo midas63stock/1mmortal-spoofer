@@ -12,8 +12,8 @@ PUBG
 DayZ  
 R6: 
 Unturned
-Arm  
-Fortnit
+Arm   
+Fortni
 
 Easy Anti-cheat:
 
