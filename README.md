@@ -9,13 +9,13 @@
 BattleEye:    
 PUB
 R6
-Untur                  
+Untur                   
 Fortni    
 Easy Anti-che  
 Apex   
 Rust 
 SCUM
-Dead by Daylight
+Dead by Dayligh
 Enlisted
 Fortnite
 
