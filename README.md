@@ -10,10 +10,10 @@ BattleEye:
 PUBG     
 
 R6:  
-Untur    
+Untur     
 A
 Fortni 
-  
+
 Easy Anti-cheat:
 
 Apex
