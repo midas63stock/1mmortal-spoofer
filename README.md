@@ -9,10 +9,10 @@
 ## Work in games 
 BattleEye:           
 PUBG     
-Day
+Day 
 R6:
 Unturne
-Ar 
+Ar
 Fortni 
   
 Easy Anti-cheat:
