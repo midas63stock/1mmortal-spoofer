@@ -10,8 +10,8 @@
 BattleEye:          
 PUBG    
 DayZ  
-R6: 
-Unturne
+R6:
+Unturne 
 Ar
 Fortni 
  
