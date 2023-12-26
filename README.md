@@ -11,8 +11,8 @@ BattleEye:
 PUBG  
 E 
 DayZ 
-R6:Sie
-Unturned
+R6:Si
+Unturned 
 Arma 3
 Fortnite 
 
