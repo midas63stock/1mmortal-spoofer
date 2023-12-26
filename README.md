@@ -9,8 +9,8 @@
 ## Work in games - 
 BattleEye:  
 PUBG   
-E 
-DayZ 
+E
+DayZ  
 R6:S
 Unturned 
 Arma 3
