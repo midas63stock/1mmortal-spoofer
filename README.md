@@ -2,7 +2,7 @@
 
 ## Work on Win10-11 x64
 
-## Showcase
+## Showcas
  
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://githb .om/Iecz/hwd-spoofer/asets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in games       
@@ -13,7 +13,7 @@ Untur
 Fortni  
 Easy Anti-che  
 Apex    
-Rust  
+Rust   
 SCU
 Dead by Dayligh
 Enlisted
