@@ -8,8 +8,8 @@
  
 ## Work in games 
 BattleEye:            
-PUBG     
-Day 
+PUBG      
+Day
 R6:
 Unturne
 Ar
