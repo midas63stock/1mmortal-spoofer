@@ -11,8 +11,8 @@ R
 Untur                   
 Fortni  
 Easy Anti-c  
-Apex     
-Rust   
+Apex    
+Rust    
 SCU  
 Dead by Dayligh 
 Enlisted
