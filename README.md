@@ -11,9 +11,9 @@ BattleEye:
 PUBG      
 DayZ
 R6: 
-Unturned 
+Unturned  
 Arma 3
-Fortnite 
+Fortnite
 
 Easy Anti-cheat:
 
