@@ -10,8 +10,8 @@ BattleEye:
 PUBG    
 R6  
 Untur           
-Fortni   
-Easy Anti-che   
+Fortni  
+Easy Anti-che    
 
 Apex 
 Rust 
