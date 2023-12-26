@@ -8,12 +8,12 @@
 ## Work in games         
 BattleEye:     
 Untur                  
-Fortni     
+Fortni      
 Easy Anti-c   
 Apex   
 Rust    
 SCU 
-Dead by Dayligh 
+Dead by Dayligh
 Enlisted
 Fortnite   
 
