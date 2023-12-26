@@ -9,9 +9,9 @@
 ## Work in games -
 BattleEye:    
 PUBG       
-DayZ 
+DayZ  
 R6: 
-Unturned 
+Unturned
 Arm  
 Fortnit
 
