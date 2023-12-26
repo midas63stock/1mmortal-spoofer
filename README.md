@@ -11,9 +11,9 @@ PUBG
 R6 
 Untur         
 Fortni  
-Easy Anti-cheat
+Easy Anti-chea
  
-Apex
+Apex 
 Rust
 SCUM
 Dead by Daylight
