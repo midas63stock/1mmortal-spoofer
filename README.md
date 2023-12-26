@@ -9,8 +9,8 @@
 BattleEye:             
 PUBG     
 
-R6:   
-Untur   
+R6:  
+Untur    
 A
 Fortni 
   
