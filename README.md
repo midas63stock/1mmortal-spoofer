@@ -11,8 +11,8 @@ PUBG
  
 R6:  
 Untur     
-A
-Fortni
+
+Fortni 
 
 Easy Anti-cheat:
 
