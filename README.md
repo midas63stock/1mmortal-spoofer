@@ -8,12 +8,12 @@
  
 ## Work in games -
 BattleEye:    
-PUBG      
+PUBG       
 DayZ 
 R6: 
 Unturned 
 Arm  
-Fortnite
+Fortnit
 
 Easy Anti-cheat:
 
