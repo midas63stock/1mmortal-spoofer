@@ -9,11 +9,11 @@
 BattleEye:          
 PUBG        
 R6  
-Untur      
+Untur       
 Fortni 
 Easy Anti-cheat:
  
-Apex 
+Apex
 Rust
 SCUM
 Dead by Daylight
