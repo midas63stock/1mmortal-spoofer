@@ -5,7 +5,7 @@
 ## Showcase
  
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://githb .com/Iecz/hwid-spoofer/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
-## Work in games      
+## Work in games       
 BattleEye:  
 PUB  
 R    
@@ -14,7 +14,7 @@ Fortni
 Easy Anti-che  
 Apex    
 Rust  
-SCU 
+SCU
 Dead by Dayligh
 Enlisted
 Fortnite
