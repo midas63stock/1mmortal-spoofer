@@ -9,11 +9,11 @@
 BattleEye:  
 P 
 R       
-Untur                  
+Untur                   
 Fortni   
 Easy Anti-che 
 Apex     
-Rust 
+Rust
 SCU
 Dead by Dayligh
 Enlisted
