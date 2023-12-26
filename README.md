@@ -9,12 +9,12 @@
 ## Work in games 
 BattleEye:             
 PUBG     
-Da
+D
 R6:  
 Unturn
 Ar 
 Fortni 
- 
+  
 Easy Anti-cheat:
 
 Apex
