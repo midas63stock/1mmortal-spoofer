@@ -9,9 +9,9 @@
 BattleEye:              
 PUBG     
 
-R6:  
+R6:   
 Untur 
-Ar
+A
 Fortni 
   
 Easy Anti-cheat:
