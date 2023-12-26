@@ -9,9 +9,9 @@
 BattleEye: 
 PUB     
 R   
-Untur                
+Untur               
 Fortni   
-Easy Anti-che   
+Easy Anti-che    
 Apex   
 Rust 
 SCU
