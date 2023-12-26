@@ -9,12 +9,12 @@
 ## Work in games -
 BattleEye:           
 PUBG     
-DayZ
+Day
 R6:
 Unturne
 Ar 
 Fortni 
- 
+  
 Easy Anti-cheat:
 
 Apex
