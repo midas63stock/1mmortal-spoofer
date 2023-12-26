@@ -8,11 +8,11 @@
 
 ## Work in games 
 BattleEye:             
-PUBG      
+PUBG     
 Day
 R6: 
 Unturn
-Ar
+Ar 
 Fortni 
  
 Easy Anti-cheat:
