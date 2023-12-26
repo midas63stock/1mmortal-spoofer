@@ -10,9 +10,9 @@
 BattleEye:     
 PUBG      
 DayZ  
-R6: 
+R6:  
 Unturned
-Arm   
+Arm  
 Fortni
 
 Easy Anti-cheat:
