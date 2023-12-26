@@ -8,10 +8,10 @@
 ## Work in games        
 BattleEye:    
 R     
-Untur                      
+Untur                     
 Fortni  
 Easy Anti-ch
-Apex     
+Apex      
 Rust 
 SCU
 Dead by Dayligh
