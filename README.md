@@ -9,11 +9,11 @@
 BattleEye:        
 Untur           
 Fortni       
-Easy Anti-c     
+Easy Anti-c      
 Apex     
 Rust      
 SCU   
-Dead by Dayli 
+Dead by Dayli
 Enliste
 Fortnite   
 
