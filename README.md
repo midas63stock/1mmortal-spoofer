@@ -8,11 +8,11 @@
 ## Work in games      
 BattleEye:        
 Untur             
-Fortni       
+Fortni      
 Easy Anti-c    
 Apex      
 Rust    
-SCU   
+SCU    
 Dead by Dayli
 Enliste
 Fortnite   
