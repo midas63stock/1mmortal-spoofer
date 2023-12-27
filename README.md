@@ -4,7 +4,7 @@
 
 ## Showcas
  
-![immortal_322_hM574sNMraQMiMRaGnmZ](https://githb .om/Iecz/hwd-spoofer/asets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
+![immortal_322_hM574sNMraQMiMRaGnmZ](https://githb .om/Ie cz/hwd-spoofer/asets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in games         
 BattleEye:        
 Untur              
@@ -12,7 +12,7 @@ Fortni
 Easy Anti-c   
 Apex     
 Rust    
-SCU   
+SCU  
 Dead by Dayli
 Enliste
 Fortnite   
