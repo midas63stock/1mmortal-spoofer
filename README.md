@@ -8,9 +8,9 @@
 ## Work in games     
 BattleEye:         
 Untur           
-Fortni     
+Fortni    
 Easy Anti-c         
-Apex   
+Apex    
 Rust      
 SCU   
 Dead by Dayli
