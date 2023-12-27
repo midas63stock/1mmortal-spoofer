@@ -9,9 +9,9 @@
 BattleEye:         
 Untur           
 Fortni    
-Easy Anti-c          
+Easy Anti-c           
 Apex   
-Rust       
+Rust      
 SCU   
 Dead by Dayli
 Enliste
