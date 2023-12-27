@@ -12,8 +12,8 @@ Fortni
 Easy Anti-c    
 Apex     
 Rust    
-SCU  
-Dead by Daylig
+SCU   
+Dead by Dayli
 Enliste
 Fortnite   
 
