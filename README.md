@@ -9,8 +9,8 @@
 BattleEye:        
 Untur           
 Fortni       
-Easy Anti-c    
-Apex      
+Easy Anti-c     
+Apex     
 Rust      
 SCU   
 Dead by Dayli 
