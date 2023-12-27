@@ -8,8 +8,8 @@
 ## Work in games     
 BattleEye:        
 Untur             
-Fortni       
-Easy Anti-c    
+Fortni      
+Easy Anti-c     
 Apex      
 Rust    
 SCU    
